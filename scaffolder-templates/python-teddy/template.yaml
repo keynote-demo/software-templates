@@ -2,11 +2,11 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: python-teddy-template
-  title: Python application to show Gen AI with OpenShift AI powered images generation
-  description: Python application to show Gen AI with OpenShift AI powered images generation
+  title: Python application to show Gen AI with OpenShift AI
+  description: Python application to show Gen AI with OpenShift AI
   tags:
     - python
-    - generativeai
+    - genai
     - datascience
     - nodejs
 spec:
