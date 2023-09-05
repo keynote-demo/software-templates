@@ -13,10 +13,10 @@ metadata:
     github.com/project-slug: ${{values.githubOrg}}/${{values.repoName}}
     janus-idp.io/tekton-enabled: 'true'
   tags:
-    - java
-    - quarkus
-    - maven
-    - workshop
+    - python
+    - genai
+    - datascience
+    - nodejs
   links:
     - url: https://console-openshift-console${{values.cluster_id}}/dev-pipelines/ns/${{values.namespace}}/
       title: Pipelines
